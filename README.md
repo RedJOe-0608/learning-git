@@ -1,4 +1,4 @@
 Git tutorial
 
-- This is buggy code
+- This is the actual feature
 - Adding a new feature

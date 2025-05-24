@@ -1,4 +1,4 @@
-Git is awesome!
+Git tutorial
 
-- This is a tutorial
+- This is buggy code
 - Adding a new feature

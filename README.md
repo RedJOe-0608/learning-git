@@ -1,4 +1,4 @@
-Git is awesome!
+Hello Git!
 
-- This is a tutorial
+- This is the actual feature
 - Adding a new feature
